@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtTitulo" type="id" />
+    <item name="txtDescripcion" type="id" />
+    <item name="imgItem" type="id" />
+    <item name="ratingBar" type="id" />
+    <item name="editTextTextPassword" type="id" />
+    <item name="editTextTextPersonName" type="id" />
+</resources>
